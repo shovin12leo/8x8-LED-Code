@@ -24,7 +24,22 @@ CS     ----------->Digital Pin 10
 
 CLK     ---------->Digital Pin 13
 
-Functionalities
+Installing the Required Library
+
+To use the 8x8 LED matrix module, you need to install the LedControl library.
+
+Steps:
+
+Open the Arduino IDE.
+
+Go to Sketch > Include Library > Manage Libraries.
+
+In the Library Manager, search for "LedControl".
+
+Select the library by Eberhard Fahle and click Install.
+
+
+#Functionalities
 
 The provided code enables the following features:
 
