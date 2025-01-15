@@ -2,7 +2,7 @@
 
 Overview
 
-The 8x8 LED matrix module, driven by the MAX7219 IC, allows for dynamic displays of patterns, animations, text, and numbers. This guide provides step-by-step instructions to connect the module to an Arduino Uno (Uni R3) and explains various functionalities implemented in the accompanying code.
+The 8x8 LED matrix module, driven by the MAX7219 IC, allows for dynamic displays of patterns, animations, text, and numbers. This guide provides step-by-step instructions to connect the module to an Arduino Uno (Uno R3) and explains various functionalities implemented in the accompanying code.
 ![WhatsApp Image 2025-01-15 at 21 02 36_a1993f46](https://github.com/user-attachments/assets/5ea47275-0563-4384-8573-4c96c37d2aff)
 Connections
 
