@@ -10,14 +10,26 @@ Wiring
 
 Below are the necessary connections to interface the 8x8 LED matrix with the Arduino Uno:
 
-![image](https://github.com/user-attachments/assets/97afc45c-bd2f-475a-84fc-d2bd10d7e58a)
+
+LED Pin           |            Arduino Uno Pin
+
+5V      ------------->VCC 
+
+GND      ---------->GND
+
+DIN     ---------> Digital Pin 11
+
+CS     ----------->Digital Pin 10
+
+CLK     ---------->Digital Pin 13
+
 Functionalities
 
 The provided code enables the following features:
 
 1. Display Emotions (Emoji)
 
-Predefined patterns simulate various emotions (happy, sad, surprised, etc.).
+Predefined patterns simulate various emotions .
 
 Each pattern is stored as an array of bytes.
 
@@ -43,8 +55,6 @@ Configurable speed for animations.
 
 Displays a heart shape growing (small to big) or beating.
 
-Can be customized to include pulsating effects.
-
 6. Display Your Name
 
 Use a custom name generator to create an array for your name.
@@ -53,3 +63,4 @@ Use a custom name generator to create an array for your name.
 ![image](https://github.com/user-attachments/assets/55f2c4df-a887-4f93-b188-2d9d012261e7)
 
 Recommended tool: LED Pattern Maker.
+
