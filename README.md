@@ -10,6 +10,7 @@ Wiring
 
 Below are the necessary connections to interface the 8x8 LED matrix with the Arduino Uno:
 
+![image](https://github.com/user-attachments/assets/70c6d212-4fbc-4eef-bf68-0f41c3181412)
 
 LED Pin           |            Arduino Uno Pin
 
